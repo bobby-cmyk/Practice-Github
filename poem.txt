@@ -1,3 +1,5 @@
+Title: Blur
+
 Roses are red
 Violets are blue
 Today's a blur
